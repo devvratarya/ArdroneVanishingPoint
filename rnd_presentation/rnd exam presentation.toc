@@ -1,0 +1,19 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Motivation}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objective}{5}{0}{1}
+\beamer@sectionintoc {2}{Related Work}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Related Work}{6}{0}{2}
+\beamer@sectionintoc {3}{Problem handled}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{How to handle computational limitations?}{7}{0}{3}
+\beamer@sectionintoc {4}{Setup and Platform}{13}{0}{4}
+\beamer@sectionintoc {5}{Approach}{15}{0}{5}
+\beamer@subsectionintoc {5}{1}{Overview}{15}{0}{5}
+\beamer@subsectionintoc {5}{2}{Architecture}{17}{0}{5}
+\beamer@subsectionintoc {5}{3}{Image Processing}{18}{0}{5}
+\beamer@subsectionintoc {5}{4}{Controller}{41}{0}{5}
+\beamer@sectionintoc {6}{Experimental results}{44}{0}{6}
+\beamer@sectionintoc {7}{Future work}{48}{0}{7}
+\beamer@subsectionintoc {8}{1}{videos}{49}{0}{7}
+\beamer@subsectionintoc {8}{2}{References}{50}{0}{7}
+\beamer@subsectionintoc {8}{3}{Edge detection}{52}{0}{7}

@@ -1,0 +1,141 @@
+\beamer@endinputifotherversion {3.10pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Introduction}{3}{Introduction}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Motivation}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Motivation}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{1}{2}{4/4}{Motivation}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Objective}}\headcommand {\beamer@subsectionpages {3}{4}}
+\headcommand {\slideentry {1}{2}{1}{5/5}{Objective}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\sectionentry {2}{Related Work}{6}{Related Work}{0}}
+\headcommand {\beamer@sectionpages {3}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{Related Work}}\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\slideentry {2}{1}{1}{6/6}{Related Work}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\sectionentry {3}{Problem handled}{7}{Problem handled}{0}}
+\headcommand {\beamer@sectionpages {6}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{7}{How to handle computational limitations?}}\headcommand {\beamer@subsectionpages {7}{6}}
+\headcommand {\slideentry {3}{1}{1}{7/10}{How to handle computational limitations?}{0}}
+\headcommand {\beamer@framepages {7}{10}}
+\headcommand {\slideentry {3}{1}{2}{11/11}{How to handle computational limitations?}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {3}{1}{3}{12/12}{How to handle computational limitations?}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\sectionentry {4}{Setup and Platform}{13}{Setup and Platform}{0}}
+\headcommand {\beamer@sectionpages {7}{12}}
+\headcommand {\beamer@subsectionpages {7}{12}}
+\headcommand {\slideentry {4}{0}{4}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {4}{0}{5}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\sectionentry {5}{Approach}{15}{Approach}{0}}
+\headcommand {\beamer@sectionpages {13}{14}}
+\headcommand {\beamer@subsectionpages {13}{14}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{15}{Overview}}\headcommand {\beamer@subsectionpages {15}{14}}
+\headcommand {\slideentry {5}{1}{1}{15/15}{Overview}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {5}{1}{2}{16/16}{Overview}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{17}{Architecture}}\headcommand {\beamer@subsectionpages {15}{16}}
+\headcommand {\slideentry {5}{2}{1}{17/17}{Architecture}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{18}{Image Processing}}\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {5}{3}{1}{18/18}{Image Processing}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {5}{3}{2}{19/19}{Image Processing}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {5}{3}{3}{20/20}{Image Processing}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {5}{3}{4}{21/21}{Image Processing}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {5}{3}{5}{22/22}{Image Processing}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {5}{3}{6}{23/23}{Image Processing}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {5}{3}{7}{24/24}{Image Processing}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {5}{3}{8}{25/25}{Image Processing}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {5}{3}{9}{26/26}{Image Processing}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\slideentry {5}{3}{10}{27/27}{Image Processing}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {5}{3}{11}{28/28}{Image Processing}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {5}{3}{12}{29/29}{Image Processing}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {5}{3}{13}{30/30}{Image Processing}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {5}{3}{14}{31/31}{Image Processing}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {5}{3}{15}{32/32}{Image Processing}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {5}{3}{16}{33/33}{Image Processing}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {5}{3}{17}{34/34}{Image Processing}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\slideentry {5}{3}{18}{35/35}{Image Processing}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {5}{3}{19}{36/36}{Image Processing}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {5}{3}{20}{37/37}{Image Processing}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {5}{3}{21}{38/38}{Image Processing}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {5}{3}{22}{39/39}{Image Processing}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {5}{3}{23}{40/40}{Image Processing}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{41}{Controller}}\headcommand {\beamer@subsectionpages {18}{40}}
+\headcommand {\slideentry {5}{4}{1}{41/41}{Controller}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\slideentry {5}{4}{2}{42/42}{Controller}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {5}{4}{3}{43/43}{Controller}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\sectionentry {6}{Experimental results}{44}{Experimental results}{0}}
+\headcommand {\beamer@sectionpages {15}{43}}
+\headcommand {\beamer@subsectionpages {41}{43}}
+\headcommand {\slideentry {6}{0}{4}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {6}{0}{5}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {6}{0}{6}{46/46}{}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {6}{0}{7}{47/47}{}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\sectionentry {7}{Future work}{48}{Future work}{0}}
+\headcommand {\beamer@sectionpages {44}{47}}
+\headcommand {\beamer@subsectionpages {44}{47}}
+\headcommand {\slideentry {7}{0}{8}{48/48}{}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\sectionentry {8}{Appendix}{49}{Appendix}{0}}
+\headcommand {\beamer@sectionpages {48}{48}}
+\headcommand {\beamer@subsectionpages {48}{48}}
+\headcommand {\beamer@subsectionentry {0}{8}{1}{49}{videos}}\headcommand {\beamer@subsectionpages {49}{48}}
+\headcommand {\slideentry {8}{1}{1}{49/49}{videos}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\beamer@subsectionentry {0}{8}{2}{50}{References}}\headcommand {\beamer@subsectionpages {49}{49}}
+\headcommand {\slideentry {8}{2}{1}{50/50}{References}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {8}{2}{2}{51/51}{References}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\beamer@subsectionentry {0}{8}{3}{52}{Edge detection}}\headcommand {\beamer@subsectionpages {50}{51}}
+\headcommand {\slideentry {8}{3}{1}{52/52}{Edge detection}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\slideentry {8}{3}{2}{53/53}{Edge detection}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\beamer@partpages {1}{53}}
+\headcommand {\beamer@subsectionpages {52}{53}}
+\headcommand {\beamer@sectionpages {49}{53}}
+\headcommand {\beamer@documentpages {53}}
+\headcommand {\def \inserttotalframenumber {50}}

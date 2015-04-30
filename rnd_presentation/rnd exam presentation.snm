@@ -1,0 +1,23 @@
+\beamer@slide {fig:ground_robots}{4}
+\beamer@slide {fig:drone_ground_communication}{7}
+\beamer@slide {fig:drone_ground_communication}{11}
+\beamer@slide {Figure: corridor_sample_images}{12}
+\beamer@slide {Figure: AscTec_Pelican}{14}
+\beamer@slide {Figure: Parrot_AR_Drone_2}{14}
+\beamer@slide {vp_edge_detect<1>}{19}
+\beamer@slide {vp_edge_detect}{19}
+\beamer@slide {vp_edge_detect<2>}{20}
+\beamer@slide {vp_edge_detect<3>}{22}
+\beamer@slide {fig:detectedegdes}{23}
+\beamer@slide {vp_edge_detect<4>}{24}
+\beamer@slide {vp_edge_detect<5>}{26}
+\beamer@slide {fig:unreasonablelines}{27}
+\beamer@slide {vp_edge_detect<6>}{28}
+\beamer@slide {fig:gridimage}{30}
+\beamer@slide {vp_density_based<1>}{31}
+\beamer@slide {vp_density_based}{31}
+\beamer@slide {vp_density_based<2>}{32}
+\beamer@slide {vp_density_based<3>}{34}
+\beamer@slide {fig:cmdxy}{47}
+\beamer@slide {fig:Hough_Lines_Tutorial_Theory}{53}
+\beamer@slide {fig:sinusoidalIntersection}{53}
